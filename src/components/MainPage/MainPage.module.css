@@ -23,7 +23,7 @@
 
 .main_image {
   width: 25vh;
-  background-color: var(--color-mint);
+  background-color: transparent;
   padding: 0.8rem;
   overflow: visible;
 }
