@@ -17,6 +17,7 @@ export default function CalendarPage() {
         prev2Label={null}
         onClickMonth={null}
         minDetail={"month"}
+        formatDay={(locale, date) => date.getDate()}
       />
     </div>
   );
