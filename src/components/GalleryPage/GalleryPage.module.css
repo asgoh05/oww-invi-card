@@ -1,0 +1,19 @@
+.gallery_page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.title {
+  font-family: "KyoboHandwriting2021sjy";
+  margin-bottom: 4rem;
+  letter-spacing: 1rem;
+  font-size: 2rem;
+  color: var(--color-text);
+}
+
+.image_frame {
+  width: 95vw;
+  background-color: transparent;
+}

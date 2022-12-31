@@ -1,0 +1,70 @@
+.message_page {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+  margin-top: 10rem;
+}
+.title {
+  font-family: "KyoboHandwriting2021sjy";
+  font-size: 2rem;
+  letter-spacing: 1rem;
+  color: var(--color-text);
+}
+
+.messagebox {
+  align-self: center;
+  padding: 1rem;
+}
+
+.message {
+  width: 70vw;
+  font-size: 1.3rem;
+  line-height: 3rem;
+}
+
+.name {
+  font-family: "NanumBarunpen";
+  width: auto;
+  padding: 0.5rem 3rem;
+  align-self: center;
+  margin-top: 4rem;
+  box-sizing: border-box;
+}
+
+.family {
+  font-family: "NanumBarunpen";
+  font-size: 1.4rem;
+  width: 70vw;
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.parents {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+}
+
+.dot {
+  align-self: center;
+  color: var(--color-highlight-text);
+  margin: 0 1rem;
+}
+
+.parents_name {
+  background-color: var(--color-mint);
+  padding: 0.4rem;
+  color: var(--color-text);
+  font-weight: bold;
+}
+
+.role {
+  font-size: 0.8rem;
+  padding-right: 1rem;
+}

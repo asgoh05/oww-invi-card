@@ -1,0 +1,33 @@
+.nav {
+  position: fixed;
+  top: 5px;
+  right: 5px;
+  z-index: 1;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  padding-left: 0;
+}
+
+li {
+  background-color: var(--color-highlight-text);
+  opacity: 0.6;
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  padding-top: 3px;
+  margin: 3px;
+  text-align: center;
+  color: var(--color-mint);
+  box-shadow: 10px 10px 15px -11px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 10px 10px 15px -11px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 15px -11px rgba(0, 0, 0, 0.75);
+}
+
+.icons {
+  font-size: 1.8rem;
+  padding-top: 3px;
+}

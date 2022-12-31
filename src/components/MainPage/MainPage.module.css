@@ -1,0 +1,59 @@
+.main_page {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.name_highlight {
+  font-size: larger;
+  color: var(--color-highlight-text);
+}
+
+.header {
+  text-align: center;
+  font-size: 2.2rem;
+  margin-bottom: 3rem;
+}
+
+.image_frame {
+  margin-bottom: 1rem;
+}
+
+.main_image {
+  width: 25vh;
+  background-color: var(--color-mint);
+  border-radius: 50%;
+  padding: 0.8rem;
+  overflow: visible;
+}
+
+.info {
+  text-align: center;
+  font-family: "NanumBarunpen";
+  font-size: 0.8rem;
+}
+
+.datetime {
+  margin-bottom: 0;
+}
+
+.location {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+}
+
+.mapbutton {
+  border: none;
+  outline: none;
+  background: transparent;
+  font-family: "KyoboHandwriting2021sjy";
+  font-size: 1rem;
+  opacity: 0.6;
+  vertical-align: top;
+}
+
+.icon {
+  font-size: 1rem;
+}

@@ -1,0 +1,46 @@
+.background {
+  position: relative;
+  height: 100vh;
+  width: 100vw;
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+.container {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 100%;
+  max-width: 800px;
+  transform: translate(-50%, -50%);
+}
+
+.image {
+  width: 100%;
+  height: auto;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  color: white;
+  font-size: 3rem;
+}
+
+button:hover {
+  opacity: 0.5;
+}
+
+.btn_left {
+  position: absolute;
+  top: 50%;
+  left: 2%;
+  transform: translateY(-50%);
+}
+
+.btn_right {
+  position: absolute;
+  top: 50%;
+  right: 2%;
+  transform: translateY(-50%);
+}
