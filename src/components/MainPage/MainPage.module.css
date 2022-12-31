@@ -24,7 +24,6 @@
 .main_image {
   width: 25vh;
   background-color: var(--color-mint);
-  border-radius: 50%;
   padding: 0.8rem;
   overflow: visible;
 }
