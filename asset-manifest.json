@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/oww-invi-card/static/css/main.e554c001.css",
+    "main.css": "/oww-invi-card/static/css/main.783b110c.css",
     "main.js": "/oww-invi-card/static/js/main.ae2c6f1d.js",
     "static/js/787.dd924aef.chunk.js": "/oww-invi-card/static/js/787.dd924aef.chunk.js",
     "static/media/oww_main_image.png": "/oww-invi-card/static/media/oww_main_image.3761c8a697470ff1a75f.png",
     "static/media/navermap_icon.png": "/oww-invi-card/static/media/navermap_icon.2a5cd4a5459df43a931c.png",
     "static/media/kakaomap_icon.png": "/oww-invi-card/static/media/kakaomap_icon.b5281e10c237b9fecb04.png",
     "index.html": "/oww-invi-card/index.html",
-    "main.e554c001.css.map": "/oww-invi-card/static/css/main.e554c001.css.map",
+    "main.783b110c.css.map": "/oww-invi-card/static/css/main.783b110c.css.map",
     "main.ae2c6f1d.js.map": "/oww-invi-card/static/js/main.ae2c6f1d.js.map",
     "787.dd924aef.chunk.js.map": "/oww-invi-card/static/js/787.dd924aef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e554c001.css",
+    "static/css/main.783b110c.css",
     "static/js/main.ae2c6f1d.js"
   ]
 }
