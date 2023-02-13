@@ -1,6 +1,6 @@
 import React from "react";
 import style from "./MainPage.module.css";
-import mainImage from "../../images/oww_main_image.png";
+import mainImage from "../../images/oww_main_image2.png";
 import { BiMap } from "react-icons/bi";
 
 export default function MainPage() {

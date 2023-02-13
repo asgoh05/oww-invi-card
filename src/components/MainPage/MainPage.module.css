@@ -22,7 +22,8 @@
 }
 
 .main_image {
-  width: 25vh;
+  width: 100vw;
+  max-width: 550px;
   background-color: transparent;
   padding: 0.8rem;
   overflow: visible;
