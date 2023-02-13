@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/oww-invi-card/static/css/main.b64f2e65.css",
-    "main.js": "/oww-invi-card/static/js/main.eee6059f.js",
+    "main.css": "/oww-invi-card/static/css/main.d0b8cdae.css",
+    "main.js": "/oww-invi-card/static/js/main.4f2be3f2.js",
     "static/js/787.dd924aef.chunk.js": "/oww-invi-card/static/js/787.dd924aef.chunk.js",
-    "static/media/oww_main_image.png": "/oww-invi-card/static/media/oww_main_image.3761c8a697470ff1a75f.png",
+    "static/media/oww_main_image2.png": "/oww-invi-card/static/media/oww_main_image2.dc7768d1befcfac9548b.png",
     "static/media/navermap_icon.png": "/oww-invi-card/static/media/navermap_icon.2a5cd4a5459df43a931c.png",
     "static/media/kakaomap_icon.png": "/oww-invi-card/static/media/kakaomap_icon.b5281e10c237b9fecb04.png",
     "index.html": "/oww-invi-card/index.html",
-    "main.b64f2e65.css.map": "/oww-invi-card/static/css/main.b64f2e65.css.map",
-    "main.eee6059f.js.map": "/oww-invi-card/static/js/main.eee6059f.js.map",
+    "main.d0b8cdae.css.map": "/oww-invi-card/static/css/main.d0b8cdae.css.map",
+    "main.4f2be3f2.js.map": "/oww-invi-card/static/js/main.4f2be3f2.js.map",
     "787.dd924aef.chunk.js.map": "/oww-invi-card/static/js/787.dd924aef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b64f2e65.css",
-    "static/js/main.eee6059f.js"
+    "static/css/main.d0b8cdae.css",
+    "static/js/main.4f2be3f2.js"
   ]
 }
