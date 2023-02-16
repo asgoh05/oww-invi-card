@@ -54,7 +54,7 @@
 .dot {
   align-self: center;
   color: var(--color-highlight-text);
-  margin: 0 1rem;
+  margin: 0 0.5rem;
 }
 
 .parents_name {
@@ -66,5 +66,5 @@
 
 .role {
   font-size: 0.8rem;
-  padding-right: 1rem;
+  padding-right: 0.5rem;
 }
