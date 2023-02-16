@@ -1,17 +1,15 @@
 .message_page {
-  height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-content: center;
   text-align: center;
-  margin-top: 10rem;
 }
 .title {
-  font-family: "KyoboHandwriting2021sjy";
-  font-size: 2rem;
+  font-family: "GangwonEdu_OTFBoldA";
+  font-size: 1.4rem;
   letter-spacing: 1rem;
-  color: var(--color-text);
+  color: var(--color-highlight-text);
 }
 
 .messagebox {
@@ -20,13 +18,15 @@
 }
 
 .message {
-  width: 70vw;
+  margin: 6rem;
+  width: 80vw;
   font-size: 1.3rem;
   line-height: 3rem;
+  font-family: "KyoboHandwriting2021sjy";
 }
 
 .name {
-  font-family: "NanumBarunpen";
+  font-family: "GangwonEdu_OTFBoldA";
   width: auto;
   padding: 0.5rem 3rem;
   align-self: center;
@@ -35,7 +35,7 @@
 }
 
 .family {
-  font-family: "NanumBarunpen";
+  font-family: "GangwonEdu_OTFBoldA";
   font-size: 1.4rem;
   width: 70vw;
   display: flex;

@@ -22,7 +22,7 @@ export default function MainPage() {
         />
       </div>
       <div className={style.info} data-aos="fade-up" ata-aos-duration="3000">
-        <h2 className={style.datetime}>2023.02.26 일요일 오후 12:00</h2>
+        <h2 className={style.datetime}>2023.02.26 일요일 오전 10:50 ~</h2>
         <h1 className={style.location}>하누소더힐</h1>
         <button className={style.mapbutton} onClick={openMap}>
           지도 열기

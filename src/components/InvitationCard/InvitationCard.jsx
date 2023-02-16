@@ -32,12 +32,10 @@ export default function InvitationCard({ images }) {
       </nav>
       <section id="main">
         <MainPage />
+        <MessagePage />
       </section>
       <section id="gallery">
         <GalleryPage images={images} />
-      </section>
-      <section id="message">
-        <MessagePage />
       </section>
       <section id="calendar">
         <CalendarPage />

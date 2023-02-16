@@ -6,11 +6,11 @@
 }
 
 .title {
-  font-family: "KyoboHandwriting2021sjy";
+  font-family: "GangwonEdu_OTFBoldA";
   margin-bottom: 4rem;
   letter-spacing: 1rem;
-  font-size: 2rem;
-  color: var(--color-text);
+  font-size: 1.4rem;
+  color: var(--color-highlight-text);
 }
 
 .image_frame {
