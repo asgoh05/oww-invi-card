@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/oww-invi-card/static/css/main.307a85b4.css",
-    "main.js": "/oww-invi-card/static/js/main.f3ae4467.js",
+    "main.css": "/oww-invi-card/static/css/main.e39b555e.css",
+    "main.js": "/oww-invi-card/static/js/main.efc2419c.js",
     "static/js/787.dd924aef.chunk.js": "/oww-invi-card/static/js/787.dd924aef.chunk.js",
     "static/media/oww_main_image2.png": "/oww-invi-card/static/media/oww_main_image2.dc7768d1befcfac9548b.png",
     "static/media/navermap_icon.png": "/oww-invi-card/static/media/navermap_icon.2a5cd4a5459df43a931c.png",
     "static/media/oww_dol_calendar.jpeg": "/oww-invi-card/static/media/oww_dol_calendar.bae694dd4d2693ea4cf0.jpeg",
     "static/media/kakaomap_icon.png": "/oww-invi-card/static/media/kakaomap_icon.b5281e10c237b9fecb04.png",
     "index.html": "/oww-invi-card/index.html",
-    "main.307a85b4.css.map": "/oww-invi-card/static/css/main.307a85b4.css.map",
-    "main.f3ae4467.js.map": "/oww-invi-card/static/js/main.f3ae4467.js.map",
+    "main.e39b555e.css.map": "/oww-invi-card/static/css/main.e39b555e.css.map",
+    "main.efc2419c.js.map": "/oww-invi-card/static/js/main.efc2419c.js.map",
     "787.dd924aef.chunk.js.map": "/oww-invi-card/static/js/787.dd924aef.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.307a85b4.css",
-    "static/js/main.f3ae4467.js"
+    "static/css/main.e39b555e.css",
+    "static/js/main.efc2419c.js"
   ]
 }
